@@ -45,6 +45,13 @@ The project uses `netflix_titles.csv`, which contains information about Netflix 
 4. Keep the notebook and CSV file in the same directory.
 5. Open the notebook and run the cells in order.
 
+## Key Findings
+
+- International Movies and Dramas are among the most frequently listed genres in the dataset.
+- Comedies also have a strong presence in the Netflix content catalog.
+- The genre distribution highlights the variety of movies and TV shows represented in the dataset.
+- Visualizations help make content distribution and genre patterns easier to understand.
+
 ## Learning Outcomes
 This project provided practice in data cleaning, exploratory data analysis, visualization, machine learning workflows, and text-based similarity techniques.
 
